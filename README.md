@@ -1,1 +1,1 @@
-# https---github.com-SerhiyKa-Ruby_course
+Ruby_course
